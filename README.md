@@ -1,6 +1,11 @@
 # Automatic Time-Table Generator for educational institutions
 
+
 This program generates unique time-table for each Class divisions, when sufficient inputs are provided.
+
+![image](https://github.com/user-attachments/assets/c221866b-edd1-4281-9197-6574ce41a4ac)
+![image](https://github.com/user-attachments/assets/448dc271-6f06-4604-99b1-6e98921cc703)
+
 
 The project “Automatic time-table generator for educational institutes” is software to generate unique time-tables for each and every class. The software asks for following inputs in order to generate unique time-tables for each class.
 
